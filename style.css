@@ -1,0 +1,19 @@
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+p{
+    color: red;
+}
+.desc{
+    color: green;
+    font-size: 36px;
+}
+button{
+    display: block;
+}
+div{
+    border: 5px solid blue;
+    text-align: center;
+}
